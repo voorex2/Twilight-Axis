@@ -1,3 +1,6 @@
+/datum/status_effect/buff/ravox_vow
+	effectedstats = list(STATKEY_STR = 1)
+
 /datum/status_effect/buff/goodloving
 	id = "Good Loving"
 	alert_type = /atom/movable/screen/alert/status_effect/buff/goodloving
